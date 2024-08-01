@@ -1,0 +1,3004 @@
+Iter 0:
+Batch 0, loss: 164.17807972431183
+
+Iter 1:
+Batch 0, loss: 155.25385224819183
+
+Iter 2:
+Batch 0, loss: 147.45367777347565
+
+Iter 3:
+Batch 0, loss: 149.17709517478943
+
+Iter 4:
+Batch 0, loss: 142.30846285820007
+
+Iter 5:
+Batch 0, loss: 142.77081960439682
+
+Iter 6:
+Batch 0, loss: 133.79892218112946
+
+Iter 7:
+Batch 0, loss: 132.6843854188919
+
+Iter 8:
+Batch 0, loss: 133.16929829120636
+
+Iter 9:
+Batch 0, loss: 125.85094809532166
+
+Iter 10:
+Batch 0, loss: 123.40461683273315
+
+Iter 11:
+Batch 0, loss: 117.64016509056091
+
+Iter 12:
+Batch 0, loss: 115.17101913690567
+
+Iter 13:
+Batch 0, loss: 116.01144284009933
+
+Iter 14:
+Batch 0, loss: 116.53112399578094
+
+Iter 15:
+Batch 0, loss: 117.13721442222595
+
+Iter 16:
+Batch 0, loss: 114.10300821065903
+
+Iter 17:
+Batch 0, loss: 117.50711196660995
+
+Iter 18:
+Batch 0, loss: 113.3899267911911
+
+Iter 19:
+Batch 0, loss: 143.46113830804825
+
+Iter 20:
+Batch 0, loss: 117.95848071575165
+
+Iter 21:
+Batch 0, loss: 114.5623407959938
+
+Iter 22:
+Batch 0, loss: 116.90428978204727
+
+Iter 23:
+Batch 0, loss: 113.21285736560822
+
+Iter 24:
+Batch 0, loss: 113.16014230251312
+
+Iter 25:
+Batch 0, loss: 112.87930285930634
+
+Iter 26:
+Batch 0, loss: 112.90430527925491
+
+Iter 27:
+Batch 0, loss: 114.11205643415451
+
+Iter 28:
+Batch 0, loss: 114.19771027565002
+
+Iter 29:
+Batch 0, loss: 113.59266239404678
+
+Iter 30:
+Batch 0, loss: 114.18643814325333
+
+Iter 31:
+Batch 0, loss: 113.15273296833038
+
+Iter 32:
+Batch 0, loss: 114.50961446762085
+
+Iter 33:
+Batch 0, loss: 113.38716238737106
+
+Iter 34:
+Batch 0, loss: 114.00493627786636
+
+Iter 35:
+Batch 0, loss: 113.18371850252151
+
+Iter 36:
+Batch 0, loss: 112.31938087940216
+
+Iter 37:
+Batch 0, loss: 112.81357997655869
+
+Iter 38:
+Batch 0, loss: 112.35618084669113
+
+Iter 39:
+Batch 0, loss: 112.51752024888992
+
+Iter 40:
+Batch 0, loss: 111.85978180170059
+
+Iter 41:
+Batch 0, loss: 111.03267282247543
+
+Iter 42:
+Batch 0, loss: 110.85872632265091
+
+Iter 43:
+Batch 0, loss: 112.79397988319397
+
+Iter 44:
+Batch 0, loss: 111.55010378360748
+
+Iter 45:
+Batch 0, loss: 111.75383311510086
+
+Iter 46:
+Batch 0, loss: 112.4191541671753
+
+Iter 47:
+Batch 0, loss: 112.65445351600647
+
+Iter 48:
+Batch 0, loss: 112.66443729400635
+
+Iter 49:
+Batch 0, loss: 111.85557919740677
+
+Iter 50:
+Batch 0, loss: 111.82302045822144
+
+Iter 51:
+Batch 0, loss: 111.70734941959381
+
+Iter 52:
+Batch 0, loss: 111.84226685762405
+
+Iter 53:
+Batch 0, loss: 111.11005312204361
+
+Iter 54:
+Batch 0, loss: 109.86538755893707
+
+Iter 55:
+Batch 0, loss: 109.76600575447083
+
+Iter 56:
+Batch 0, loss: 111.36458402872086
+
+Iter 57:
+Batch 0, loss: 113.87314528226852
+
+Iter 58:
+Batch 0, loss: 112.41042733192444
+
+Iter 59:
+Batch 0, loss: 111.29444396495819
+
+Iter 60:
+Batch 0, loss: 110.30750107765198
+
+Iter 61:
+Batch 0, loss: 110.11317574977875
+
+Iter 62:
+Batch 0, loss: 110.51447027921677
+
+Iter 63:
+Batch 0, loss: 110.65445810556412
+
+Iter 64:
+Batch 0, loss: 110.4670045375824
+
+Iter 65:
+Batch 0, loss: 110.95838809013367
+
+Iter 66:
+Batch 0, loss: 110.19434303045273
+
+Iter 67:
+Batch 0, loss: 111.0330775976181
+
+Iter 68:
+Batch 0, loss: 111.95599573850632
+
+Iter 69:
+Batch 0, loss: 109.57914048433304
+
+Iter 70:
+Batch 0, loss: 109.8324728012085
+
+Iter 71:
+Batch 0, loss: 107.77552849054337
+
+Iter 72:
+Batch 0, loss: 107.79964905977249
+
+Iter 73:
+Batch 0, loss: 107.05437672138214
+
+Iter 74:
+Batch 0, loss: 109.1355311870575
+
+Iter 75:
+Batch 0, loss: 110.18858277797699
+
+Iter 76:
+Batch 0, loss: 108.16884273290634
+
+Iter 77:
+Batch 0, loss: 107.68517619371414
+
+Iter 78:
+Batch 0, loss: 108.64441496133804
+
+Iter 79:
+Batch 0, loss: 109.47729963064194
+
+Iter 80:
+Batch 0, loss: 108.18512797355652
+
+Iter 81:
+Batch 0, loss: 108.32072430849075
+
+Iter 82:
+Batch 0, loss: 109.542873442173
+
+Iter 83:
+Batch 0, loss: 109.98369270563126
+
+Iter 84:
+Batch 0, loss: 108.13688510656357
+
+Iter 85:
+Batch 0, loss: 108.19080358743668
+
+Iter 86:
+Batch 0, loss: 108.0648763179779
+
+Iter 87:
+Batch 0, loss: 107.93476164340973
+
+Iter 88:
+Batch 0, loss: 108.49560469388962
+
+Iter 89:
+Batch 0, loss: 107.21812880039215
+
+Iter 90:
+Batch 0, loss: 107.5125812292099
+
+Iter 91:
+Batch 0, loss: 108.95085167884827
+
+Iter 92:
+Batch 0, loss: 108.36525279283524
+
+Iter 93:
+Batch 0, loss: 109.70688611268997
+
+Iter 94:
+Batch 0, loss: 109.70027023553848
+
+Iter 95:
+Batch 0, loss: 109.2459596991539
+
+Iter 96:
+Batch 0, loss: 109.07608431577682
+
+Iter 97:
+Batch 0, loss: 108.97558796405792
+
+Iter 98:
+Batch 0, loss: 109.49632841348648
+
+Iter 99:
+Batch 0, loss: 109.79082864522934
+
+Iter 100:
+Batch 0, loss: 112.05226784944534
+
+Iter 101:
+Batch 0, loss: 114.42630112171173
+
+Iter 102:
+Batch 0, loss: 115.66269248723984
+
+Iter 103:
+Batch 0, loss: 113.88718885183334
+
+Iter 104:
+Batch 0, loss: 114.27640986442566
+
+Iter 105:
+Batch 0, loss: 112.94298499822617
+
+Iter 106:
+Batch 0, loss: 112.7978327870369
+
+Iter 107:
+Batch 0, loss: 112.50070625543594
+
+Iter 108:
+Batch 0, loss: 112.66720950603485
+
+Iter 109:
+Batch 0, loss: 112.763030230999
+
+Iter 110:
+Batch 0, loss: 112.61329001188278
+
+Iter 111:
+Batch 0, loss: 112.18996477127075
+
+Iter 112:
+Batch 0, loss: 111.95478457212448
+
+Iter 113:
+Batch 0, loss: 111.9376779794693
+
+Iter 114:
+Batch 0, loss: 111.48540604114532
+
+Iter 115:
+Batch 0, loss: 112.3794196844101
+
+Iter 116:
+Batch 0, loss: 111.23137456178665
+
+Iter 117:
+Batch 0, loss: 111.01059782505035
+
+Iter 118:
+Batch 0, loss: 111.51175302267075
+
+Iter 119:
+Batch 0, loss: 111.55633145570755
+
+Iter 120:
+Batch 0, loss: 111.45762878656387
+
+Iter 121:
+Batch 0, loss: 111.04178154468536
+
+Iter 122:
+Batch 0, loss: 110.85997021198273
+
+Iter 123:
+Batch 0, loss: 110.5798978805542
+
+Iter 124:
+Batch 0, loss: 110.40590679645538
+
+Iter 125:
+Batch 0, loss: 111.63044953346252
+
+Iter 126:
+Batch 0, loss: 112.16447699069977
+
+Iter 127:
+Batch 0, loss: 112.06294852495193
+
+Iter 128:
+Batch 0, loss: 111.65676432847977
+
+Iter 129:
+Batch 0, loss: 111.98121678829193
+
+Iter 130:
+Batch 0, loss: 111.03533607721329
+
+Iter 131:
+Batch 0, loss: 111.48818689584732
+
+Iter 132:
+Batch 0, loss: 110.96517610549927
+
+Iter 133:
+Batch 0, loss: 110.91393315792084
+
+Iter 134:
+Batch 0, loss: 110.48773658275604
+
+Iter 135:
+Batch 0, loss: 110.10743939876556
+
+Iter 136:
+Batch 0, loss: 109.78111600875854
+
+Iter 137:
+Batch 0, loss: 110.28236472606659
+
+Iter 138:
+Batch 0, loss: 110.28598326444626
+
+Iter 139:
+Batch 0, loss: 109.69317036867142
+
+Iter 140:
+Batch 0, loss: 109.93451565504074
+
+Iter 141:
+Batch 0, loss: 111.20703589916229
+
+Iter 142:
+Batch 0, loss: 110.55070495605469
+
+Iter 143:
+Batch 0, loss: 110.31413966417313
+
+Iter 144:
+Batch 0, loss: 109.4570140838623
+
+Iter 145:
+Batch 0, loss: 109.04601263999939
+
+Iter 146:
+Batch 0, loss: 109.05241918563843
+
+Iter 147:
+Batch 0, loss: 109.01427948474884
+
+Iter 148:
+Batch 0, loss: 109.37162977457047
+
+Iter 149:
+Batch 0, loss: 110.27771133184433
+
+Iter 150:
+Batch 0, loss: 110.4209121465683
+
+Iter 151:
+Batch 0, loss: 110.19307470321655
+
+Iter 152:
+Batch 0, loss: 109.98384898900986
+
+Iter 153:
+Batch 0, loss: 110.31197494268417
+
+Iter 154:
+Batch 0, loss: 109.48175346851349
+
+Iter 155:
+Batch 0, loss: 110.80153769254684
+
+Iter 156:
+Batch 0, loss: 111.40985244512558
+
+Iter 157:
+Batch 0, loss: 111.68481355905533
+
+Iter 158:
+Batch 0, loss: 111.06835609674454
+
+Iter 159:
+Batch 0, loss: 109.75808495283127
+
+Iter 160:
+Batch 0, loss: 109.5179854631424
+
+Iter 161:
+Batch 0, loss: 109.5131402015686
+
+Iter 162:
+Batch 0, loss: 109.8780876994133
+
+Iter 163:
+Batch 0, loss: 109.86501640081406
+
+Iter 164:
+Batch 0, loss: 109.74939894676208
+
+Iter 165:
+Batch 0, loss: 109.54232585430145
+
+Iter 166:
+Batch 0, loss: 108.92230087518692
+
+Iter 167:
+Batch 0, loss: 109.00835281610489
+
+Iter 168:
+Batch 0, loss: 109.51066964864731
+
+Iter 169:
+Batch 0, loss: 108.67108237743378
+
+Iter 170:
+Batch 0, loss: 109.56198179721832
+
+Iter 171:
+Batch 0, loss: 108.53315806388855
+
+Iter 172:
+Batch 0, loss: 108.30954599380493
+
+Iter 173:
+Batch 0, loss: 108.04325097799301
+
+Iter 174:
+Batch 0, loss: 107.66307228803635
+
+Iter 175:
+Batch 0, loss: 107.59979331493378
+
+Iter 176:
+Batch 0, loss: 107.9565537571907
+
+Iter 177:
+Batch 0, loss: 108.49221742153168
+
+Iter 178:
+Batch 0, loss: 108.67251634597778
+
+Iter 179:
+Batch 0, loss: 108.45942270755768
+
+Iter 180:
+Batch 0, loss: 109.15075945854187
+
+Iter 181:
+Batch 0, loss: 107.89431118965149
+
+Iter 182:
+Batch 0, loss: 107.25749707221985
+
+Iter 183:
+Batch 0, loss: 106.84856575727463
+
+Iter 184:
+Batch 0, loss: 108.42228674888611
+
+Iter 185:
+Batch 0, loss: 108.89190375804901
+
+Iter 186:
+Batch 0, loss: 108.81968623399734
+
+Iter 187:
+Batch 0, loss: 108.64182907342911
+
+Iter 188:
+Batch 0, loss: 108.45147258043289
+
+Iter 189:
+Batch 0, loss: 107.76148092746735
+
+Iter 190:
+Batch 0, loss: 108.92619997262955
+
+Iter 191:
+Batch 0, loss: 108.398561835289
+
+Iter 192:
+Batch 0, loss: 108.16846400499344
+
+Iter 193:
+Batch 0, loss: 107.2699978351593
+
+Iter 194:
+Batch 0, loss: 108.84555369615555
+
+Iter 195:
+Batch 0, loss: 106.78417456150055
+
+Iter 196:
+Batch 0, loss: 105.9245502948761
+
+Iter 197:
+Batch 0, loss: 106.67564392089844
+
+Iter 198:
+Batch 0, loss: 106.63209384679794
+
+Iter 199:
+Batch 0, loss: 107.01905566453934
+
+Training time: 1973.1912429332733
+Iter 200:
+Batch 0, loss: 107.49664962291718
+
+Iter 201:
+Batch 0, loss: 106.41800510883331
+
+Iter 202:
+Batch 0, loss: 105.42832487821579
+
+Iter 203:
+Batch 0, loss: 105.129319190979
+
+Iter 204:
+Batch 0, loss: 104.2262994647026
+
+Iter 205:
+Batch 0, loss: 103.49340277910233
+
+Iter 206:
+Batch 0, loss: 103.91544473171234
+
+Iter 207:
+Batch 0, loss: 103.85424166917801
+
+Iter 208:
+Batch 0, loss: 105.45049333572388
+
+Iter 209:
+Batch 0, loss: 105.45104265213013
+
+Iter 210:
+Batch 0, loss: 105.93753588199615
+
+Iter 211:
+Batch 0, loss: 105.37147217988968
+
+Iter 212:
+Batch 0, loss: 106.59399771690369
+
+Iter 213:
+Batch 0, loss: 105.06534206867218
+
+Iter 214:
+Batch 0, loss: 104.50462490320206
+
+Iter 215:
+Batch 0, loss: 103.37474572658539
+
+Iter 216:
+Batch 0, loss: 103.4475120306015
+
+Iter 217:
+Batch 0, loss: 106.11269742250443
+
+Iter 218:
+Batch 0, loss: 105.0095962882042
+
+Iter 219:
+Batch 0, loss: 104.06606763601303
+
+Iter 220:
+Batch 0, loss: 103.71036952733994
+
+Iter 221:
+Batch 0, loss: 104.3794749379158
+
+Iter 222:
+Batch 0, loss: 104.41850781440735
+
+Iter 223:
+Batch 0, loss: 105.21545314788818
+
+Iter 224:
+Batch 0, loss: 105.63608276844025
+
+Iter 225:
+Batch 0, loss: 104.92984688282013
+
+Iter 226:
+Batch 0, loss: 103.18243056535721
+
+Iter 227:
+Batch 0, loss: 103.91818898916245
+
+Iter 228:
+Batch 0, loss: 106.60069727897644
+
+Iter 229:
+Batch 0, loss: 104.80198484659195
+
+Iter 230:
+Batch 0, loss: 104.60941606760025
+
+Iter 231:
+Batch 0, loss: 103.38509851694107
+
+Iter 232:
+Batch 0, loss: 105.00272697210312
+
+Iter 233:
+Batch 0, loss: 102.97813820838928
+
+Iter 234:
+Batch 0, loss: 103.87125641107559
+
+Iter 235:
+Batch 0, loss: 102.58100301027298
+
+Iter 236:
+Batch 0, loss: 103.5644913315773
+
+Iter 237:
+Batch 0, loss: 104.44668906927109
+
+Iter 238:
+Batch 0, loss: 103.51948928833008
+
+Iter 239:
+Batch 0, loss: 102.4589336514473
+
+Iter 240:
+Batch 0, loss: 101.77921742200851
+
+Iter 241:
+Batch 0, loss: 104.6675905585289
+
+Iter 242:
+Batch 0, loss: 103.34628021717072
+
+Iter 243:
+Batch 0, loss: 101.48440676927567
+
+Iter 244:
+Batch 0, loss: 100.77661907672882
+
+Iter 245:
+Batch 0, loss: 102.27438759803772
+
+Iter 246:
+Batch 0, loss: 102.73481172323227
+
+Iter 247:
+Batch 0, loss: 101.91377061605453
+
+Iter 248:
+Batch 0, loss: 102.87870216369629
+
+Iter 249:
+Batch 0, loss: 101.88180845975876
+
+Iter 250:
+Batch 0, loss: 101.43129903078079
+
+Iter 251:
+Batch 0, loss: 101.70068788528442
+
+Iter 252:
+Batch 0, loss: 100.09822964668274
+
+Iter 253:
+Batch 0, loss: 100.25813180208206
+
+Iter 254:
+Batch 0, loss: 102.66795694828033
+
+Iter 255:
+Batch 0, loss: 101.84198242425919
+
+Iter 256:
+Batch 0, loss: 101.40141671895981
+
+Iter 257:
+Batch 0, loss: 100.60821318626404
+
+Iter 258:
+Batch 0, loss: 99.76007145643234
+
+Iter 259:
+Batch 0, loss: 99.40694028139114
+
+Iter 260:
+Batch 0, loss: 100.92839753627777
+
+Iter 261:
+Batch 0, loss: 101.5651142001152
+
+Iter 262:
+Batch 0, loss: 100.03323543071747
+
+Iter 263:
+Batch 0, loss: 99.77051889896393
+
+Iter 264:
+Batch 0, loss: 99.78528487682343
+
+Iter 265:
+Batch 0, loss: 99.69698649644852
+
+Iter 266:
+Batch 0, loss: 99.86067312955856
+
+Iter 267:
+Batch 0, loss: 100.15895426273346
+
+Iter 268:
+Batch 0, loss: 98.89477580785751
+
+Iter 269:
+Batch 0, loss: 98.61536294221878
+
+Iter 270:
+Batch 0, loss: 100.2548257112503
+
+Iter 271:
+Batch 0, loss: 101.10742944478989
+
+Iter 272:
+Batch 0, loss: 101.87823420763016
+
+Iter 273:
+Batch 0, loss: 101.40680205821991
+
+Iter 274:
+Batch 0, loss: 99.81877440214157
+
+Iter 275:
+Batch 0, loss: 99.69667506217957
+
+Iter 276:
+Batch 0, loss: 98.34227389097214
+
+Iter 277:
+Batch 0, loss: 99.25579944252968
+
+Iter 278:
+Batch 0, loss: 99.20385545492172
+
+Iter 279:
+Batch 0, loss: 98.83357453346252
+
+Iter 280:
+Batch 0, loss: 98.66542783379555
+
+Iter 281:
+Batch 0, loss: 96.65310734510422
+
+Iter 282:
+Batch 0, loss: 96.40828171372414
+
+Iter 283:
+Batch 0, loss: 97.21377643942833
+
+Iter 284:
+Batch 0, loss: 97.7349719107151
+
+Iter 285:
+Batch 0, loss: 100.95227897167206
+
+Iter 286:
+Batch 0, loss: 100.62528479099274
+
+Iter 287:
+Batch 0, loss: 100.75843954086304
+
+Iter 288:
+Batch 0, loss: 100.07463330030441
+
+Iter 289:
+Batch 0, loss: 100.93742537498474
+
+Iter 290:
+Batch 0, loss: 99.74793463945389
+
+Iter 291:
+Batch 0, loss: 97.53879427909851
+
+Iter 292:
+Batch 0, loss: 102.97104096412659
+
+Iter 293:
+Batch 0, loss: 97.99732592701912
+
+Iter 294:
+Batch 0, loss: 99.1576460301876
+
+Iter 295:
+Batch 0, loss: 101.56121841073036
+
+Iter 296:
+Batch 0, loss: 101.51669284701347
+
+Iter 297:
+Batch 0, loss: 98.50142586231232
+
+Iter 298:
+Batch 0, loss: 98.38466107845306
+
+Iter 299:
+Batch 0, loss: 97.77084973454475
+
+Iter 300:
+Batch 0, loss: 101.39622792601585
+
+Iter 301:
+Batch 0, loss: 98.45330995321274
+
+Iter 302:
+Batch 0, loss: 97.54587072134018
+
+Iter 303:
+Batch 0, loss: 98.33350449800491
+
+Iter 304:
+Batch 0, loss: 98.47195589542389
+
+Iter 305:
+Batch 0, loss: 98.61198949813843
+
+Iter 306:
+Batch 0, loss: 98.75408971309662
+
+Iter 307:
+Batch 0, loss: 96.67369335889816
+
+Iter 308:
+Batch 0, loss: 96.65609163045883
+
+Iter 309:
+Batch 0, loss: 96.21943971514702
+
+Iter 310:
+Batch 0, loss: 97.8721233010292
+
+Iter 311:
+Batch 0, loss: 97.30508109927177
+
+Iter 312:
+Batch 0, loss: 101.93149757385254
+
+Iter 313:
+Batch 0, loss: 100.7113750576973
+
+Iter 314:
+Batch 0, loss: 97.82805526256561
+
+Iter 315:
+Batch 0, loss: 96.40738412737846
+
+Iter 316:
+Batch 0, loss: 95.28492066264153
+
+Iter 317:
+Batch 0, loss: 95.97178480029106
+
+Iter 318:
+Batch 0, loss: 95.67860734462738
+
+Iter 319:
+Batch 0, loss: 96.82064864039421
+
+Iter 320:
+Batch 0, loss: 97.48122853040695
+
+Iter 321:
+Batch 0, loss: 96.7966668009758
+
+Iter 322:
+Batch 0, loss: 97.88360929489136
+
+Iter 323:
+Batch 0, loss: 95.08267387747765
+
+Iter 324:
+Batch 0, loss: 94.90140932798386
+
+Iter 325:
+Batch 0, loss: 94.51787343621254
+
+Iter 326:
+Batch 0, loss: 96.19893229007721
+
+Iter 327:
+Batch 0, loss: 94.90900209546089
+
+Iter 328:
+Batch 0, loss: 94.81263568997383
+
+Iter 329:
+Batch 0, loss: 96.85105580091476
+
+Iter 330:
+Batch 0, loss: 95.09943476319313
+
+Iter 331:
+Batch 0, loss: 94.29691311717033
+
+Iter 332:
+Batch 0, loss: 94.67199808359146
+
+Iter 333:
+Batch 0, loss: 95.50037983059883
+
+Iter 334:
+Batch 0, loss: 99.6715222299099
+
+Iter 335:
+Batch 0, loss: 101.04158332943916
+
+Iter 336:
+Batch 0, loss: 99.16653901338577
+
+Iter 337:
+Batch 0, loss: 95.19334772229195
+
+Iter 338:
+Batch 0, loss: 94.8072846531868
+
+Iter 339:
+Batch 0, loss: 94.45431137084961
+
+Iter 340:
+Batch 0, loss: 94.54062584042549
+
+Iter 341:
+Batch 0, loss: 93.1120228767395
+
+Iter 342:
+Batch 0, loss: 94.71722042560577
+
+Iter 343:
+Batch 0, loss: 94.83541777729988
+
+Iter 344:
+Batch 0, loss: 93.86417067050934
+
+Iter 345:
+Batch 0, loss: 96.56079262495041
+
+Iter 346:
+Batch 0, loss: 96.29051783680916
+
+Iter 347:
+Batch 0, loss: 94.93537023663521
+
+Iter 348:
+Batch 0, loss: 92.9851683974266
+
+Iter 349:
+Batch 0, loss: 93.9506343305111
+
+Iter 350:
+Batch 0, loss: 92.30249625444412
+
+Iter 351:
+Batch 0, loss: 94.39000755548477
+
+Iter 352:
+Batch 0, loss: 91.41804578900337
+
+Iter 353:
+Batch 0, loss: 92.25263506174088
+
+Iter 354:
+Batch 0, loss: 93.84043082594872
+
+Iter 355:
+Batch 0, loss: 95.38920566439629
+
+Iter 356:
+Batch 0, loss: 93.56144815683365
+
+Iter 357:
+Batch 0, loss: 93.38337874412537
+
+Iter 358:
+Batch 0, loss: 92.05639162659645
+
+Iter 359:
+Batch 0, loss: 92.88441067934036
+
+Iter 360:
+Batch 0, loss: 90.03023460507393
+
+Iter 361:
+Batch 0, loss: 91.93898376822472
+
+Iter 362:
+Batch 0, loss: 91.85953888297081
+
+Iter 363:
+Batch 0, loss: 90.8443988263607
+
+Iter 364:
+Batch 0, loss: 94.36594453454018
+
+Iter 365:
+Batch 0, loss: 98.90216398239136
+
+Iter 366:
+Batch 0, loss: 103.53303611278534
+
+Iter 367:
+Batch 0, loss: 96.06291884183884
+
+Iter 368:
+Batch 0, loss: 96.15193063020706
+
+Iter 369:
+Batch 0, loss: 98.1042091846466
+
+Iter 370:
+Batch 0, loss: 92.9690622985363
+
+Iter 371:
+Batch 0, loss: 91.15771239995956
+
+Iter 372:
+Batch 0, loss: 90.59162005782127
+
+Iter 373:
+Batch 0, loss: 89.82848086953163
+
+Iter 374:
+Batch 0, loss: 90.61120429635048
+
+Iter 375:
+Batch 0, loss: 91.06838804483414
+
+Iter 376:
+Batch 0, loss: 90.910227060318
+
+Iter 377:
+Batch 0, loss: 90.41478505730629
+
+Iter 378:
+Batch 0, loss: 89.57549911737442
+
+Iter 379:
+Batch 0, loss: 90.90373128652573
+
+Iter 380:
+Batch 0, loss: 89.30778250098228
+
+Iter 381:
+Batch 0, loss: 89.2457015812397
+
+Iter 382:
+Batch 0, loss: 92.88271829485893
+
+Iter 383:
+Batch 0, loss: 95.69141033291817
+
+Iter 384:
+Batch 0, loss: 91.69698017835617
+
+Iter 385:
+Batch 0, loss: 91.58640399575233
+
+Iter 386:
+Batch 0, loss: 93.46478745341301
+
+Iter 387:
+Batch 0, loss: 89.17651006579399
+
+Iter 388:
+Batch 0, loss: 88.96880280971527
+
+Iter 389:
+Batch 0, loss: 88.94196778535843
+
+Iter 390:
+Batch 0, loss: 89.95589381456375
+
+Iter 391:
+Batch 0, loss: 89.0655572116375
+
+Iter 392:
+Batch 0, loss: 92.45220252871513
+
+Iter 393:
+Batch 0, loss: 90.03863978385925
+
+Iter 394:
+Batch 0, loss: 89.01508542895317
+
+Iter 395:
+Batch 0, loss: 93.23918357491493
+
+Iter 396:
+Batch 0, loss: 92.27825579047203
+
+Iter 397:
+Batch 0, loss: 92.78302958607674
+
+Iter 398:
+Batch 0, loss: 89.81707227230072
+
+Iter 399:
+Batch 0, loss: 91.11719581484795
+
+Training time: 2654.9112434387207
+Iter 400:
+Batch 0, loss: 90.5460994541645
+
+Iter 401:
+Batch 0, loss: 91.23054021596909
+
+Iter 402:
+Batch 0, loss: 94.294836550951
+
+Iter 403:
+Batch 0, loss: 95.61362725496292
+
+Iter 404:
+Batch 0, loss: 91.97190383076668
+
+Iter 405:
+Batch 0, loss: 91.19067513942719
+
+Iter 406:
+Batch 0, loss: 92.32675665616989
+
+Iter 407:
+Batch 0, loss: 88.4226039648056
+
+Iter 408:
+Batch 0, loss: 89.70432525873184
+
+Iter 409:
+Batch 0, loss: 88.47759652137756
+
+Iter 410:
+Batch 0, loss: 86.65670311450958
+
+Iter 411:
+Batch 0, loss: 90.64489334821701
+
+Iter 412:
+Batch 0, loss: 87.2909284234047
+
+Iter 413:
+Batch 0, loss: 86.64109656214714
+
+Iter 414:
+Batch 0, loss: 93.86632493138313
+
+Iter 415:
+Batch 0, loss: 89.8206656575203
+
+Iter 416:
+Batch 0, loss: 87.30021643638611
+
+Iter 417:
+Batch 0, loss: 89.61204180121422
+
+Iter 418:
+Batch 0, loss: 87.69198399782181
+
+Iter 419:
+Batch 0, loss: 90.01626110076904
+
+Iter 420:
+Batch 0, loss: 86.40646159648895
+
+Iter 421:
+Batch 0, loss: 89.22097659111023
+
+Iter 422:
+Batch 0, loss: 89.96151211857796
+
+Iter 423:
+Batch 0, loss: 89.34124112129211
+
+Iter 424:
+Batch 0, loss: 88.73145991563797
+
+Iter 425:
+Batch 0, loss: 88.20258951187134
+
+Iter 426:
+Batch 0, loss: 92.22553583979607
+
+Iter 427:
+Batch 0, loss: 88.37730410695076
+
+Iter 428:
+Batch 0, loss: 88.11596071720123
+
+Iter 429:
+Batch 0, loss: 88.94902658462524
+
+Iter 430:
+Batch 0, loss: 85.86270642280579
+
+Iter 431:
+Batch 0, loss: 89.50779190659523
+
+Iter 432:
+Batch 0, loss: 87.87756618857384
+
+Iter 433:
+Batch 0, loss: 86.94239223003387
+
+Iter 434:
+Batch 0, loss: 86.48810911178589
+
+Iter 435:
+Batch 0, loss: 86.05124992132187
+
+Iter 436:
+Batch 0, loss: 86.65293112397194
+
+Iter 437:
+Batch 0, loss: 87.30446070432663
+
+Iter 438:
+Batch 0, loss: 91.58475035429001
+
+Iter 439:
+Batch 0, loss: 86.60003888607025
+
+Iter 440:
+Batch 0, loss: 87.48742231726646
+
+Iter 441:
+Batch 0, loss: 88.31838876008987
+
+Iter 442:
+Batch 0, loss: 86.5935395359993
+
+Iter 443:
+Batch 0, loss: 91.19677728414536
+
+Iter 444:
+Batch 0, loss: 93.8683460354805
+
+Iter 445:
+Batch 0, loss: 90.86938694119453
+
+Iter 446:
+Batch 0, loss: 85.28483834862709
+
+Iter 447:
+Batch 0, loss: 86.89305248856544
+
+Iter 448:
+Batch 0, loss: 87.21575751900673
+
+Iter 449:
+Batch 0, loss: 87.15390142798424
+
+Iter 450:
+Batch 0, loss: 96.04731532931328
+
+Iter 451:
+Batch 0, loss: 90.87310054898262
+
+Iter 452:
+Batch 0, loss: 92.38833448290825
+
+Iter 453:
+Batch 0, loss: 96.08070307970047
+
+Iter 454:
+Batch 0, loss: 89.17983880639076
+
+Iter 455:
+Batch 0, loss: 85.94643115997314
+
+Iter 456:
+Batch 0, loss: 86.02404657006264
+
+Iter 457:
+Batch 0, loss: 84.86329513788223
+
+Iter 458:
+Batch 0, loss: 86.27660629153252
+
+Iter 459:
+Batch 0, loss: 85.14512678980827
+
+Iter 460:
+Batch 0, loss: 85.20697376132011
+
+Iter 461:
+Batch 0, loss: 87.28406748175621
+
+Iter 462:
+Batch 0, loss: 86.43364343047142
+
+Iter 463:
+Batch 0, loss: 84.26151978969574
+
+Iter 464:
+Batch 0, loss: 85.48402380943298
+
+Iter 465:
+Batch 0, loss: 87.38613590598106
+
+Iter 466:
+Batch 0, loss: 85.7439492046833
+
+Iter 467:
+Batch 0, loss: 91.14231383800507
+
+Iter 468:
+Batch 0, loss: 92.04853996634483
+
+Iter 469:
+Batch 0, loss: 86.02461969852448
+
+Iter 470:
+Batch 0, loss: 84.9386320412159
+
+Iter 471:
+Batch 0, loss: 84.98859879374504
+
+Iter 472:
+Batch 0, loss: 86.2627702653408
+
+Iter 473:
+Batch 0, loss: 83.64557588100433
+
+Iter 474:
+Batch 0, loss: 87.75921627879143
+
+Iter 475:
+Batch 0, loss: 89.90083435177803
+
+Iter 476:
+Batch 0, loss: 84.8527499139309
+
+Iter 477:
+Batch 0, loss: 84.43735936284065
+
+Iter 478:
+Batch 0, loss: 87.11966767907143
+
+Iter 479:
+Batch 0, loss: 87.46614018082619
+
+Iter 480:
+Batch 0, loss: 85.34453946352005
+
+Iter 481:
+Batch 0, loss: 84.64224311709404
+
+Iter 482:
+Batch 0, loss: 85.64210242033005
+
+Iter 483:
+Batch 0, loss: 93.68094566464424
+
+Iter 484:
+Batch 0, loss: 85.88619461655617
+
+Iter 485:
+Batch 0, loss: 87.83234402537346
+
+Iter 486:
+Batch 0, loss: 86.01013308763504
+
+Iter 487:
+Batch 0, loss: 85.45575997233391
+
+Iter 488:
+Batch 0, loss: 85.18591132760048
+
+Iter 489:
+Batch 0, loss: 84.50052180886269
+
+Iter 490:
+Batch 0, loss: 85.9943479001522
+
+Iter 491:
+Batch 0, loss: 82.6313274204731
+
+Iter 492:
+Batch 0, loss: 88.6990416944027
+
+Iter 493:
+Batch 0, loss: 86.73368167877197
+
+Iter 494:
+Batch 0, loss: 85.92628875374794
+
+Iter 495:
+Batch 0, loss: 84.65124395489693
+
+Iter 496:
+Batch 0, loss: 85.01570916175842
+
+Iter 497:
+Batch 0, loss: 83.23662465810776
+
+Iter 498:
+Batch 0, loss: 81.97233757376671
+
+Iter 499:
+Batch 0, loss: 85.31129702925682
+
+Training time: 1364.855574131012
+Iter 500:
+Batch 0, loss: 113.69886919856071
+
+Iter 501:
+Batch 0, loss: 94.49899205565453
+
+Iter 502:
+Batch 0, loss: 90.9699512720108
+
+Iter 503:
+Batch 0, loss: 89.43325600028038
+
+Iter 504:
+Batch 0, loss: 88.35009932518005
+
+Iter 505:
+Batch 0, loss: 87.4568158686161
+
+Iter 506:
+Batch 0, loss: 85.91979983448982
+
+Iter 507:
+Batch 0, loss: 86.44432717561722
+
+Iter 508:
+Batch 0, loss: 85.79359370470047
+
+Iter 509:
+Batch 0, loss: 84.25040650367737
+
+Iter 510:
+Batch 0, loss: 84.01014304161072
+
+Iter 511:
+Batch 0, loss: 83.17541688680649
+
+Iter 512:
+Batch 0, loss: 84.31916528940201
+
+Iter 513:
+Batch 0, loss: 81.7896591424942
+
+Iter 514:
+Batch 0, loss: 83.66150093078613
+
+Iter 515:
+Batch 0, loss: 81.9173072874546
+
+Iter 516:
+Batch 0, loss: 81.78351354598999
+
+Iter 517:
+Batch 0, loss: 81.56431013345718
+
+Iter 518:
+Batch 0, loss: 81.5655882358551
+
+Iter 519:
+Batch 0, loss: 80.0077568590641
+
+Iter 520:
+Batch 0, loss: 86.01997494697571
+
+Iter 521:
+Batch 0, loss: 80.40783879160881
+
+Iter 522:
+Batch 0, loss: 80.05909883975983
+
+Iter 523:
+Batch 0, loss: 80.33033269643784
+
+Iter 524:
+Batch 0, loss: 80.40248900651932
+
+Iter 525:
+Batch 0, loss: 81.00443682074547
+
+Iter 526:
+Batch 0, loss: 81.94894349575043
+
+Iter 527:
+Batch 0, loss: 79.19437313079834
+
+Iter 528:
+Batch 0, loss: 78.72459214925766
+
+Iter 529:
+Batch 0, loss: 80.44064170122147
+
+Iter 530:
+Batch 0, loss: 78.83151540160179
+
+Iter 531:
+Batch 0, loss: 79.61493811011314
+
+Iter 532:
+Batch 0, loss: 82.542803555727
+
+Iter 533:
+Batch 0, loss: 79.95221933722496
+
+Iter 534:
+Batch 0, loss: 78.89646315574646
+
+Iter 535:
+Batch 0, loss: 84.24751254916191
+
+Iter 536:
+Batch 0, loss: 80.27088353037834
+
+Iter 537:
+Batch 0, loss: 79.76627138257027
+
+Iter 538:
+Batch 0, loss: 77.96604391932487
+
+Iter 539:
+Batch 0, loss: 78.32202634215355
+
+Iter 540:
+Batch 0, loss: 78.19948723912239
+
+Iter 541:
+Batch 0, loss: 79.83295953273773
+
+Iter 542:
+Batch 0, loss: 80.16850695014
+
+Iter 543:
+Batch 0, loss: 80.31755855679512
+
+Iter 544:
+Batch 0, loss: 78.92587366700172
+
+Iter 545:
+Batch 0, loss: 77.15572434663773
+
+Iter 546:
+Batch 0, loss: 77.59497460722923
+
+Iter 547:
+Batch 0, loss: 78.27597343921661
+
+Iter 548:
+Batch 0, loss: 80.15646952390671
+
+Iter 549:
+Batch 0, loss: 77.14436554908752
+
+Iter 550:
+Batch 0, loss: 78.03773528337479
+
+Iter 551:
+Batch 0, loss: 77.96320253610611
+
+Iter 552:
+Batch 0, loss: 77.70627933740616
+
+Iter 553:
+Batch 0, loss: 78.34160089492798
+
+Iter 554:
+Batch 0, loss: 77.70291331410408
+
+Iter 555:
+Batch 0, loss: 78.0007660984993
+
+Iter 556:
+Batch 0, loss: 77.19343066215515
+
+Iter 557:
+Batch 0, loss: 77.42057099938393
+
+Iter 558:
+Batch 0, loss: 78.66807207465172
+
+Iter 559:
+Batch 0, loss: 77.93926644325256
+
+Iter 560:
+Batch 0, loss: 77.53540888428688
+
+Iter 561:
+Batch 0, loss: 77.23305481672287
+
+Iter 562:
+Batch 0, loss: 78.61582863330841
+
+Iter 563:
+Batch 0, loss: 77.11084893345833
+
+Iter 564:
+Batch 0, loss: 77.41496592760086
+
+Iter 565:
+Batch 0, loss: 76.78224089741707
+
+Iter 566:
+Batch 0, loss: 76.41795948147774
+
+Iter 567:
+Batch 0, loss: 77.1480573117733
+
+Iter 568:
+Batch 0, loss: 78.3011656999588
+
+Iter 569:
+Batch 0, loss: 77.45299917459488
+
+Iter 570:
+Batch 0, loss: 76.405407756567
+
+Iter 571:
+Batch 0, loss: 75.83445382118225
+
+Iter 572:
+Batch 0, loss: 77.68455755710602
+
+Iter 573:
+Batch 0, loss: 76.31988209486008
+
+Iter 574:
+Batch 0, loss: 78.10661578178406
+
+Iter 575:
+Batch 0, loss: 76.58834981918335
+
+Iter 576:
+Batch 0, loss: 80.36249533295631
+
+Iter 577:
+Batch 0, loss: 78.39223763346672
+
+Iter 578:
+Batch 0, loss: 78.59885069727898
+
+Iter 579:
+Batch 0, loss: 78.93685308098793
+
+Iter 580:
+Batch 0, loss: 75.96010845899582
+
+Iter 581:
+Batch 0, loss: 76.24000942707062
+
+Iter 582:
+Batch 0, loss: 78.65016412734985
+
+Iter 583:
+Batch 0, loss: 78.12513953447342
+
+Iter 584:
+Batch 0, loss: 77.43861591815948
+
+Iter 585:
+Batch 0, loss: 76.53010767698288
+
+Iter 586:
+Batch 0, loss: 84.64309719204903
+
+Iter 587:
+Batch 0, loss: 83.35031142830849
+
+Iter 588:
+Batch 0, loss: 81.19472908973694
+
+Iter 589:
+Batch 0, loss: 80.71132224798203
+
+Iter 590:
+Batch 0, loss: 76.07296994328499
+
+Iter 591:
+Batch 0, loss: 76.03471982479095
+
+Iter 592:
+Batch 0, loss: 78.72086030244827
+
+Iter 593:
+Batch 0, loss: 79.02602082490921
+
+Iter 594:
+Batch 0, loss: 77.9923280775547
+
+Iter 595:
+Batch 0, loss: 77.86305424571037
+
+Iter 596:
+Batch 0, loss: 76.68729695677757
+
+Iter 597:
+Batch 0, loss: 79.10894939303398
+
+Iter 598:
+Batch 0, loss: 77.47082597017288
+
+Iter 599:
+Batch 0, loss: 78.40991628170013
+
+Iter 600:
+Batch 0, loss: 77.19856441020966
+
+Iter 601:
+Batch 0, loss: 77.08316576480865
+
+Iter 602:
+Batch 0, loss: 76.46314972639084
+
+Iter 603:
+Batch 0, loss: 80.6562257707119
+
+Iter 604:
+Batch 0, loss: 79.13352835178375
+
+Iter 605:
+Batch 0, loss: 78.13055774569511
+
+Iter 606:
+Batch 0, loss: 76.06966227293015
+
+Iter 607:
+Batch 0, loss: 75.53258410096169
+
+Iter 608:
+Batch 0, loss: 75.62022861838341
+
+Iter 609:
+Batch 0, loss: 77.4592957496643
+
+Iter 610:
+Batch 0, loss: 75.08698892593384
+
+Iter 611:
+Batch 0, loss: 75.41773387789726
+
+Iter 612:
+Batch 0, loss: 81.12030330300331
+
+Iter 613:
+Batch 0, loss: 81.07177790999413
+
+Iter 614:
+Batch 0, loss: 78.0263152718544
+
+Iter 615:
+Batch 0, loss: 75.46804791688919
+
+Iter 616:
+Batch 0, loss: 78.50909864902496
+
+Iter 617:
+Batch 0, loss: 76.13368624448776
+
+Iter 618:
+Batch 0, loss: 77.71474063396454
+
+Iter 619:
+Batch 0, loss: 77.32785931229591
+
+Iter 620:
+Batch 0, loss: 77.11204767227173
+
+Iter 621:
+Batch 0, loss: 79.63878735899925
+
+Iter 622:
+Batch 0, loss: 79.64201509952545
+
+Iter 623:
+Batch 0, loss: 77.12421303987503
+
+Iter 624:
+Batch 0, loss: 76.28001388907433
+
+Iter 625:
+Batch 0, loss: 77.78253942728043
+
+Iter 626:
+Batch 0, loss: 76.52021515369415
+
+Iter 627:
+Batch 0, loss: 76.3955492079258
+
+Iter 628:
+Batch 0, loss: 76.90261808037758
+
+Iter 629:
+Batch 0, loss: 74.70165506005287
+
+Iter 630:
+Batch 0, loss: 76.06967535614967
+
+Iter 631:
+Batch 0, loss: 75.80896148085594
+
+Iter 632:
+Batch 0, loss: 76.69123694300652
+
+Iter 633:
+Batch 0, loss: 76.8085186779499
+
+Iter 634:
+Batch 0, loss: 77.03529036045074
+
+Iter 635:
+Batch 0, loss: 77.29467231035233
+
+Iter 636:
+Batch 0, loss: 77.35414028167725
+
+Iter 637:
+Batch 0, loss: 78.0014668405056
+
+Iter 638:
+Batch 0, loss: 77.22228169441223
+
+Iter 639:
+Batch 0, loss: 75.23844909667969
+
+Iter 640:
+Batch 0, loss: 75.86052107810974
+
+Iter 641:
+Batch 0, loss: 74.9396705031395
+
+Iter 642:
+Batch 0, loss: 76.93023917078972
+
+Iter 643:
+Batch 0, loss: 76.37177681922913
+
+Iter 644:
+Batch 0, loss: 76.39924791455269
+
+Iter 645:
+Batch 0, loss: 75.20224750041962
+
+Iter 646:
+Batch 0, loss: 75.82832151651382
+
+Iter 647:
+Batch 0, loss: 76.56280115246773
+
+Iter 648:
+Batch 0, loss: 78.04292365908623
+
+Iter 649:
+Batch 0, loss: 76.89354813098907
+
+Iter 650:
+Batch 0, loss: 83.1642834842205
+
+Iter 651:
+Batch 0, loss: 81.21088641881943
+
+Iter 652:
+Batch 0, loss: 80.40425005555153
+
+Iter 653:
+Batch 0, loss: 76.93113747239113
+
+Iter 654:
+Batch 0, loss: 75.9144951403141
+
+Iter 655:
+Batch 0, loss: 75.50456231832504
+
+Iter 656:
+Batch 0, loss: 76.2202896475792
+
+Iter 657:
+Batch 0, loss: 78.93866285681725
+
+Iter 658:
+Batch 0, loss: 75.96280610561371
+
+Iter 659:
+Batch 0, loss: 76.52773028612137
+
+Iter 660:
+Batch 0, loss: 76.24785670638084
+
+Iter 661:
+Batch 0, loss: 77.7709268629551
+
+Iter 662:
+Batch 0, loss: 78.619219571352
+
+Iter 663:
+Batch 0, loss: 75.40002661943436
+
+Iter 664:
+Batch 0, loss: 76.27935561537743
+
+Iter 665:
+Batch 0, loss: 76.37827417254448
+
+Iter 666:
+Batch 0, loss: 75.23620182275772
+
+Iter 667:
+Batch 0, loss: 75.50447800755501
+
+Iter 668:
+Batch 0, loss: 77.07225701212883
+
+Iter 669:
+Batch 0, loss: 74.27414992451668
+
+Iter 670:
+Batch 0, loss: 75.01269724965096
+
+Iter 671:
+Batch 0, loss: 76.29854506254196
+
+Iter 672:
+Batch 0, loss: 76.70039197802544
+
+Iter 673:
+Batch 0, loss: 75.15080639719963
+
+Iter 674:
+Batch 0, loss: 77.23010236024857
+
+Iter 675:
+Batch 0, loss: 75.43459731340408
+
+Iter 676:
+Batch 0, loss: 76.41810768842697
+
+Iter 677:
+Batch 0, loss: 75.14664658904076
+
+Iter 678:
+Batch 0, loss: 74.87369868159294
+
+Iter 679:
+Batch 0, loss: 73.82272773981094
+
+Iter 680:
+Batch 0, loss: 74.18862769007683
+
+Iter 681:
+Batch 0, loss: 78.93445238471031
+
+Iter 682:
+Batch 0, loss: 75.3831996023655
+
+Iter 683:
+Batch 0, loss: 75.12897685170174
+
+Iter 684:
+Batch 0, loss: 75.6290357708931
+
+Iter 685:
+Batch 0, loss: 76.507927775383
+
+Iter 686:
+Batch 0, loss: 76.2464790046215
+
+Iter 687:
+Batch 0, loss: 76.89221432805061
+
+Iter 688:
+Batch 0, loss: 77.72478020191193
+
+Iter 689:
+Batch 0, loss: 77.55735450983047
+
+Iter 690:
+Batch 0, loss: 77.3165412247181
+
+Iter 691:
+Batch 0, loss: 79.06855940818787
+
+Iter 692:
+Batch 0, loss: 83.338263630867
+
+Iter 693:
+Batch 0, loss: 78.3835121691227
+
+Iter 694:
+Batch 0, loss: 76.2744722366333
+
+Iter 695:
+Batch 0, loss: 77.2855872809887
+
+Iter 696:
+Batch 0, loss: 86.02565652132034
+
+Iter 697:
+Batch 0, loss: 87.18627196550369
+
+Iter 698:
+Batch 0, loss: 79.06690391898155
+
+Iter 699:
+Batch 0, loss: 77.58032768964767
+
+Iter 700:
+Batch 0, loss: 75.97025242447853
+
+Iter 701:
+Batch 0, loss: 76.96581107378006
+
+Iter 702:
+Batch 0, loss: 78.59988984465599
+
+Iter 703:
+Batch 0, loss: 77.12506553530693
+
+Iter 704:
+Batch 0, loss: 75.2659138739109
+
+Iter 705:
+Batch 0, loss: 74.74448803067207
+
+Iter 706:
+Batch 0, loss: 74.53273063898087
+
+Iter 707:
+Batch 0, loss: 73.59778282046318
+
+Iter 708:
+Batch 0, loss: 74.03280848264694
+
+Iter 709:
+Batch 0, loss: 78.50114631652832
+
+Iter 710:
+Batch 0, loss: 74.4984924197197
+
+Iter 711:
+Batch 0, loss: 73.81162622570992
+
+Iter 712:
+Batch 0, loss: 74.4089720249176
+
+Iter 713:
+Batch 0, loss: 74.34000387787819
+
+Iter 714:
+Batch 0, loss: 75.09607416391373
+
+Iter 715:
+Batch 0, loss: 75.38680723309517
+
+Iter 716:
+Batch 0, loss: 73.3147266805172
+
+Iter 717:
+Batch 0, loss: 77.40175470709801
+
+Iter 718:
+Batch 0, loss: 78.62038865685463
+
+Iter 719:
+Batch 0, loss: 77.24037799239159
+
+Iter 720:
+Batch 0, loss: 76.7334571480751
+
+Iter 721:
+Batch 0, loss: 75.28925749659538
+
+Iter 722:
+Batch 0, loss: 76.32474359869957
+
+Iter 723:
+Batch 0, loss: 78.27867704629898
+
+Iter 724:
+Batch 0, loss: 77.01660937070847
+
+Iter 725:
+Batch 0, loss: 75.56982532143593
+
+Iter 726:
+Batch 0, loss: 85.15793600678444
+
+Iter 727:
+Batch 0, loss: 78.74520117044449
+
+Iter 728:
+Batch 0, loss: 79.718624740839
+
+Iter 729:
+Batch 0, loss: 90.69468972086906
+
+Iter 730:
+Batch 0, loss: 79.73262706398964
+
+Iter 731:
+Batch 0, loss: 74.17349562048912
+
+Iter 732:
+Batch 0, loss: 74.34698903560638
+
+Iter 733:
+Batch 0, loss: 74.42852127552032
+
+Iter 734:
+Batch 0, loss: 74.54092490673065
+
+Iter 735:
+Batch 0, loss: 74.0537439584732
+
+Iter 736:
+Batch 0, loss: 74.75575157999992
+
+Iter 737:
+Batch 0, loss: 75.85312816500664
+
+Iter 738:
+Batch 0, loss: 77.69450324773788
+
+Iter 739:
+Batch 0, loss: 80.41527062654495
+
+Iter 740:
+Batch 0, loss: 76.9587350487709
+
+Iter 741:
+Batch 0, loss: 74.07538813352585
+
+Iter 742:
+Batch 0, loss: 77.04751631617546
+
+Iter 743:
+Batch 0, loss: 76.65213420987129
+
+Iter 744:
+Batch 0, loss: 73.46978840231895
+
+Iter 745:
+Batch 0, loss: 75.36740100383759
+
+Iter 746:
+Batch 0, loss: 75.34309560060501
+
+Iter 747:
+Batch 0, loss: 75.98204472661018
+
+Iter 748:
+Batch 0, loss: 78.08132129907608
+
+Iter 749:
+Batch 0, loss: 79.21210643649101
+
+Iter 750:
+Batch 0, loss: 76.76345700025558
+
+Iter 751:
+Batch 0, loss: 74.65149635076523
+
+Iter 752:
+Batch 0, loss: 74.58511111140251
+
+Iter 753:
+Batch 0, loss: 76.3612712919712
+
+Iter 754:
+Batch 0, loss: 76.08918502926826
+
+Iter 755:
+Batch 0, loss: 75.17814841866493
+
+Iter 756:
+Batch 0, loss: 74.3307768702507
+
+Iter 757:
+Batch 0, loss: 75.08646196126938
+
+Iter 758:
+Batch 0, loss: 76.64551767706871
+
+Iter 759:
+Batch 0, loss: 81.31141984462738
+
+Iter 760:
+Batch 0, loss: 74.60019764304161
+
+Iter 761:
+Batch 0, loss: 74.44289645552635
+
+Iter 762:
+Batch 0, loss: 74.10334303975105
+
+Iter 763:
+Batch 0, loss: 75.018136292696
+
+Iter 764:
+Batch 0, loss: 74.79304137825966
+
+Iter 765:
+Batch 0, loss: 74.0246921479702
+
+Iter 766:
+Batch 0, loss: 74.83296689391136
+
+Iter 767:
+Batch 0, loss: 74.56706911325455
+
+Iter 768:
+Batch 0, loss: 80.0539878308773
+
+Iter 769:
+Batch 0, loss: 74.75939321517944
+
+Iter 770:
+Batch 0, loss: 74.26925468444824
+
+Iter 771:
+Batch 0, loss: 75.70799258351326
+
+Iter 772:
+Batch 0, loss: 75.87478139996529
+
+Iter 773:
+Batch 0, loss: 75.5497123003006
+
+Iter 774:
+Batch 0, loss: 75.90036356449127
+
+Iter 775:
+Batch 0, loss: 75.90020859241486
+
+Iter 776:
+Batch 0, loss: 75.88929554820061
+
+Iter 777:
+Batch 0, loss: 74.25677326321602
+
+Iter 778:
+Batch 0, loss: 74.99977725744247
+
+Iter 779:
+Batch 0, loss: 75.35851919651031
+
+Iter 780:
+Batch 0, loss: 74.00752261281013
+
+Iter 781:
+Batch 0, loss: 76.04965195059776
+
+Iter 782:
+Batch 0, loss: 78.62843608856201
+
+Iter 783:
+Batch 0, loss: 82.36470797657967
+
+Iter 784:
+Batch 0, loss: 81.63431051373482
+
+Iter 785:
+Batch 0, loss: 81.66500574350357
+
+Iter 786:
+Batch 0, loss: 75.75801211595535
+
+Iter 787:
+Batch 0, loss: 74.51810994744301
+
+Iter 788:
+Batch 0, loss: 73.8738481104374
+
+Iter 789:
+Batch 0, loss: 73.90250697731972
+
+Iter 790:
+Batch 0, loss: 75.38705384731293
+
+Iter 791:
+Batch 0, loss: 74.02705761790276
+
+Iter 792:
+Batch 0, loss: 74.59216657280922
+
+Iter 793:
+Batch 0, loss: 72.97897696495056
+
+Iter 794:
+Batch 0, loss: 74.56025215983391
+
+Iter 795:
+Batch 0, loss: 74.50501456856728
+
+Iter 796:
+Batch 0, loss: 77.346604347229
+
+Iter 797:
+Batch 0, loss: 79.8401463329792
+
+Iter 798:
+Batch 0, loss: 75.81135311722755
+
+Iter 799:
+Batch 0, loss: 73.26218006014824
+
+Iter 800:
+Batch 0, loss: 74.47456628084183
+
+Iter 801:
+Batch 0, loss: 72.97405046224594
+
+Iter 802:
+Batch 0, loss: 75.28341475129128
+
+Iter 803:
+Batch 0, loss: 77.40119019150734
+
+Iter 804:
+Batch 0, loss: 86.54236188530922
+
+Iter 805:
+Batch 0, loss: 96.06387048959732
+
+Iter 806:
+Batch 0, loss: 96.26392295956612
+
+Iter 807:
+Batch 0, loss: 84.69843509793282
+
+Iter 808:
+Batch 0, loss: 78.28270152211189
+
+Iter 809:
+Batch 0, loss: 74.9940435886383
+
+Iter 810:
+Batch 0, loss: 74.28269416093826
+
+Iter 811:
+Batch 0, loss: 75.18967658281326
+
+Iter 812:
+Batch 0, loss: 76.12514379620552
+
+Iter 813:
+Batch 0, loss: 73.81275019049644
+
+Iter 814:
+Batch 0, loss: 73.89454767107964
+
+Iter 815:
+Batch 0, loss: 74.4376482963562
+
+Iter 816:
+Batch 0, loss: 72.63521632552147
+
+Iter 817:
+Batch 0, loss: 76.50500300526619
+
+Iter 818:
+Batch 0, loss: 74.11872032284737
+
+Iter 819:
+Batch 0, loss: 78.12837770581245
+
+Iter 820:
+Batch 0, loss: 74.17237639427185
+
+Iter 821:
+Batch 0, loss: 72.95110037922859
+
+Iter 822:
+Batch 0, loss: 74.37412136793137
+
+Iter 823:
+Batch 0, loss: 73.0358222424984
+
+Iter 824:
+Batch 0, loss: 73.82302024960518
+
+Iter 825:
+Batch 0, loss: 73.8411057293415
+
+Iter 826:
+Batch 0, loss: 73.20801517367363
+
+Iter 827:
+Batch 0, loss: 77.05785635113716
+
+Iter 828:
+Batch 0, loss: 81.71992656588554
+
+Iter 829:
+Batch 0, loss: 75.62081754207611
+
+Iter 830:
+Batch 0, loss: 74.55665895342827
+
+Iter 831:
+Batch 0, loss: 78.98164504766464
+
+Iter 832:
+Batch 0, loss: 74.55361226201057
+
+Iter 833:
+Batch 0, loss: 76.73035195469856
+
+Iter 834:
+Batch 0, loss: 72.35904178023338
+
+Iter 835:
+Batch 0, loss: 74.048574000597
+
+Iter 836:
+Batch 0, loss: 74.55097416043282
+
+Iter 837:
+Batch 0, loss: 75.7159286737442
+
+Iter 838:
+Batch 0, loss: 72.88402587175369
+
+Iter 839:
+Batch 0, loss: 73.00963169336319
+
+Iter 840:
+Batch 0, loss: 73.79866123199463
+
+Iter 841:
+Batch 0, loss: 77.73197537660599
+
+Iter 842:
+Batch 0, loss: 77.6612494289875
+
+Iter 843:
+Batch 0, loss: 78.19412988424301
+
+Iter 844:
+Batch 0, loss: 79.27884748578072
+
+Iter 845:
+Batch 0, loss: 78.59525308012962
+
+Iter 846:
+Batch 0, loss: 77.54667565226555
+
+Iter 847:
+Batch 0, loss: 76.71936890482903
+
+Iter 848:
+Batch 0, loss: 73.49510604143143
+
+Iter 849:
+Batch 0, loss: 75.39484664797783
+
+Iter 850:
+Batch 0, loss: 75.46389546990395
+
+Iter 851:
+Batch 0, loss: 72.50354662537575
+
+Iter 852:
+Batch 0, loss: 73.04270282387733
+
+Iter 853:
+Batch 0, loss: 73.4673171043396
+
+Iter 854:
+Batch 0, loss: 75.2383862733841
+
+Iter 855:
+Batch 0, loss: 76.6696971654892
+
+Iter 856:
+Batch 0, loss: 76.42359414696693
+
+Iter 857:
+Batch 0, loss: 74.61915826797485
+
+Iter 858:
+Batch 0, loss: 75.3800553381443
+
+Iter 859:
+Batch 0, loss: 72.95422750711441
+
+Iter 860:
+Batch 0, loss: 75.0407544374466
+
+Iter 861:
+Batch 0, loss: 76.73829987645149
+
+Iter 862:
+Batch 0, loss: 74.14498102664948
+
+Iter 863:
+Batch 0, loss: 73.364452958107
+
+Iter 864:
+Batch 0, loss: 73.42290964722633
+
+Iter 865:
+Batch 0, loss: 76.06799829006195
+
+Iter 866:
+Batch 0, loss: 79.08698061108589
+
+Iter 867:
+Batch 0, loss: 75.05963957309723
+
+Iter 868:
+Batch 0, loss: 75.58914989233017
+
+Iter 869:
+Batch 0, loss: 74.44423592090607
+
+Iter 870:
+Batch 0, loss: 74.01955276727676
+
+Iter 871:
+Batch 0, loss: 75.37303379178047
+
+Iter 872:
+Batch 0, loss: 75.13276502490044
+
+Iter 873:
+Batch 0, loss: 75.59676200151443
+
+Iter 874:
+Batch 0, loss: 78.05196058750153
+
+Iter 875:
+Batch 0, loss: 73.0828368961811
+
+Iter 876:
+Batch 0, loss: 72.82882949709892
+
+Iter 877:
+Batch 0, loss: 81.53306937217712
+
+Iter 878:
+Batch 0, loss: 88.03294461965561
+
+Iter 879:
+Batch 0, loss: 80.90502920746803
+
+Iter 880:
+Batch 0, loss: 80.16263318061829
+
+Iter 881:
+Batch 0, loss: 75.23547556996346
+
+Iter 882:
+Batch 0, loss: 76.15030211210251
+
+Iter 883:
+Batch 0, loss: 78.04117852449417
+
+Iter 884:
+Batch 0, loss: 75.95618638396263
+
+Iter 885:
+Batch 0, loss: 73.03172126412392
+
+Iter 886:
+Batch 0, loss: 77.55862474441528
+
+Iter 887:
+Batch 0, loss: 82.91661095619202
+
+Iter 888:
+Batch 0, loss: 77.87395551800728
+
+Iter 889:
+Batch 0, loss: 73.89096230268478
+
+Iter 890:
+Batch 0, loss: 73.04270824790001
+
+Iter 891:
+Batch 0, loss: 74.64340871572495
+
+Iter 892:
+Batch 0, loss: 71.84126523137093
+
+Iter 893:
+Batch 0, loss: 72.30647847056389
+
+Iter 894:
+Batch 0, loss: 72.14897781610489
+
+Iter 895:
+Batch 0, loss: 73.24726384878159
+
+Iter 896:
+Batch 0, loss: 72.7446848154068
+
+Iter 897:
+Batch 0, loss: 73.5539373755455
+
+Iter 898:
+Batch 0, loss: 74.46596065163612
+
+Iter 899:
+Batch 0, loss: 75.53015896677971
+
+Iter 900:
+Batch 0, loss: 72.52621972560883
+
+Iter 901:
+Batch 0, loss: 75.42911112308502
+
+Iter 902:
+Batch 0, loss: 73.49992749094963
+
+Iter 903:
+Batch 0, loss: 81.26170071959496
+
+Iter 904:
+Batch 0, loss: 98.2051562666893
+
+Iter 905:
+Batch 0, loss: 90.42016640305519
+
+Iter 906:
+Batch 0, loss: 81.02452254295349
+
+Iter 907:
+Batch 0, loss: 77.01753973960876
+
+Iter 908:
+Batch 0, loss: 76.93782877922058
+
+Iter 909:
+Batch 0, loss: 74.93363171815872
+
+Iter 910:
+Batch 0, loss: 75.00923725962639
+
+Iter 911:
+Batch 0, loss: 73.10527637600899
+
+Iter 912:
+Batch 0, loss: 73.21907052397728
+
+Iter 913:
+Batch 0, loss: 73.6037966310978
+
+Iter 914:
+Batch 0, loss: 74.79087808728218
+
+Iter 915:
+Batch 0, loss: 73.45895174145699
+
+Iter 916:
+Batch 0, loss: 74.4512414932251
+
+Iter 917:
+Batch 0, loss: 72.50829002261162
+
+Iter 918:
+Batch 0, loss: 74.74653211236
+
+Iter 919:
+Batch 0, loss: 82.56452849507332
+
+Iter 920:
+Batch 0, loss: 74.21903848648071
+
+Iter 921:
+Batch 0, loss: 72.85892540216446
+
+Iter 922:
+Batch 0, loss: 74.02451702952385
+
+Iter 923:
+Batch 0, loss: 72.71348923444748
+
+Iter 924:
+Batch 0, loss: 72.91949400305748
+
+Iter 925:
+Batch 0, loss: 73.46767398715019
+
+Iter 926:
+Batch 0, loss: 72.01283198595047
+
+Iter 927:
+Batch 0, loss: 74.9463158249855
+
+Iter 928:
+Batch 0, loss: 77.48278877139091
+
+Iter 929:
+Batch 0, loss: 72.02259767055511
+
+Iter 930:
+Batch 0, loss: 73.35435885190964
+
+Iter 931:
+Batch 0, loss: 72.60264402627945
+
+Iter 932:
+Batch 0, loss: 74.12682276964188
+
+Iter 933:
+Batch 0, loss: 73.8107160627842
+
+Iter 934:
+Batch 0, loss: 74.68189284205437
+
+Iter 935:
+Batch 0, loss: 76.59788459539413
+
+Iter 936:
+Batch 0, loss: 72.23096919059753
+
+Iter 937:
+Batch 0, loss: 80.02630561590195
+
+Iter 938:
+Batch 0, loss: 78.8588889837265
+
+Iter 939:
+Batch 0, loss: 73.70232996344566
+
+Iter 940:
+Batch 0, loss: 74.20691338181496
+
+Iter 941:
+Batch 0, loss: 72.95666834712029
+
+Iter 942:
+Batch 0, loss: 72.41355861723423
+
+Iter 943:
+Batch 0, loss: 75.03717947006226
+
+Iter 944:
+Batch 0, loss: 72.760254830122
+
+Iter 945:
+Batch 0, loss: 74.4412144869566
+
+Iter 946:
+Batch 0, loss: 73.39050251245499
+
+Iter 947:
+Batch 0, loss: 73.85611465573311
+
+Iter 948:
+Batch 0, loss: 74.02148821949959
+
+Iter 949:
+Batch 0, loss: 76.73467978835106
+
+Iter 950:
+Batch 0, loss: 79.22153100371361
+
+Iter 951:
+Batch 0, loss: 78.77777737379074
+
+Iter 952:
+Batch 0, loss: 73.47079393267632
+
+Iter 953:
+Batch 0, loss: 73.37614098191261
+
+Iter 954:
+Batch 0, loss: 74.0936821103096
+
+Iter 955:
+Batch 0, loss: 74.42562937736511
+
+Iter 956:
+Batch 0, loss: 77.78449133038521
+
+Iter 957:
+Batch 0, loss: 75.3067541718483
+
+Iter 958:
+Batch 0, loss: 75.16064564883709
+
+Iter 959:
+Batch 0, loss: 72.20905473828316
+
+Iter 960:
+Batch 0, loss: 74.25496554374695
+
+Iter 961:
+Batch 0, loss: 73.74353355169296
+
+Iter 962:
+Batch 0, loss: 74.44911032915115
+
+Iter 963:
+Batch 0, loss: 74.21284514665604
+
+Iter 964:
+Batch 0, loss: 72.05862131714821
+
+Iter 965:
+Batch 0, loss: 74.05325525999069
+
+Iter 966:
+Batch 0, loss: 73.97879135608673
+
+Iter 967:
+Batch 0, loss: 72.72777593135834
+
+Iter 968:
+Batch 0, loss: 71.52175208926201
+
+Iter 969:
+Batch 0, loss: 73.75022268295288
+
+Iter 970:
+Batch 0, loss: 72.77786669135094
+
+Iter 971:
+Batch 0, loss: 73.08352428674698
+
+Iter 972:
+Batch 0, loss: 75.6839916408062
+
+Iter 973:
+Batch 0, loss: 72.77809059619904
+
+Iter 974:
+Batch 0, loss: 73.04286886751652
+
+Iter 975:
+Batch 0, loss: 73.88712456822395
+
+Iter 976:
+Batch 0, loss: 74.2661721855402
+
+Iter 977:
+Batch 0, loss: 76.14513409137726
+
+Iter 978:
+Batch 0, loss: 73.26521462202072
+
+Iter 979:
+Batch 0, loss: 75.05471892654896
+
+Iter 980:
+Batch 0, loss: 74.78862413764
+
+Iter 981:
+Batch 0, loss: 73.05837440490723
+
+Iter 982:
+Batch 0, loss: 72.54349453747272
+
+Iter 983:
+Batch 0, loss: 74.00222352147102
+
+Iter 984:
+Batch 0, loss: 77.77922561764717
+
+Iter 985:
+Batch 0, loss: 74.28746834397316
+
+Iter 986:
+Batch 0, loss: 74.13522663712502
+
+Iter 987:
+Batch 0, loss: 73.64110699295998
+
+Iter 988:
+Batch 0, loss: 82.54554253816605
+
+Iter 989:
+Batch 0, loss: 93.46743047237396
+
+Iter 990:
+Batch 0, loss: 80.71651354432106
+
+Iter 991:
+Batch 0, loss: 74.5821453332901
+
+Iter 992:
+Batch 0, loss: 72.83320489525795
+
+Iter 993:
+Batch 0, loss: 72.60522581636906
+
+Iter 994:
+Batch 0, loss: 74.27413316071033
+
+Iter 995:
+Batch 0, loss: 71.92456516623497
+
+Iter 996:
+Batch 0, loss: 73.68205028772354
+
+Iter 997:
+Batch 0, loss: 74.6477352976799
+
+Iter 998:
+Batch 0, loss: 74.16547220945358
+
+Iter 999:
+Batch 0, loss: 72.1479903459549
+
+Training time: 5412.813283205032
