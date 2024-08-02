@@ -24,26 +24,7 @@ During the evaluation phase, the prediction sets are evaluated by objective metr
 
 ## Code
 ### Requirements
-- Python ![version](https://img.shields.io/badge/version-3.7.16-blue)
-- Pytorch ![version](https://img.shields.io/badge/version-1.13.1-blue)
-- Numpy ![version](https://img.shields.io/badge/version-1.21.5-blue)
-- OpenCV ![version](https://img.shields.io/badge/version-4.8.1-blue)
-- Matplotlib ![version](https://img.shields.io/badge/version-3.5.3-blue)
-- Scikit-learn ![version](https://img.shields.io/badge/version-1.0.2-blue)
-
-<table>
-    <tr>
-        <td>Python ![version](https://img.shields.io/badge/version-3.7.16-blue)</td> 
-        <td>Pytorch ![version](https://img.shields.io/badge/version-1.13.1-blue)</td> 
-        <td>Numpy ![version](https://img.shields.io/badge/version-1.21.5-blue)</td> 
-   </tr>
-    <tr>
-  		  <td>OpenCV ![version](https://img.shields.io/badge/version-4.8.1-blue)</td> 
-        <td>Matplotlib ![version](https://img.shields.io/badge/version-3.5.3-blue)</td> 
-        <td>Scikit-learn ![version](https://img.shields.io/badge/version-1.0.2-blue)</td> 
-    </tr>
-</table>
-
+Python ![version](https://img.shields.io/badge/version-3.7.16-blue) | Pytorch ![version](https://img.shields.io/badge/version-1.13.1-blue) | Numpy ![version](https://img.shields.io/badge/version-1.21.5-blue) | OpenCV ![version](https://img.shields.io/badge/version-4.8.1-blue) | Matplotlib ![version](https://img.shields.io/badge/version-3.5.3-blue) | Scikit-learn ![version](https://img.shields.io/badge/version-1.0.2-blue)
 
 ### Data Generation
 
