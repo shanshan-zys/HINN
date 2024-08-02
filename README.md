@@ -15,7 +15,7 @@ With global occurrences of crowd crushes and stampedes, dense crowd simulation h
 ### Dense Crowd Flow Dataset
 DCFD contains dense crowd motions of six classic patterns, including line, curve, circle, cross, cluster, and scatter. These crowd motions are sourced from various scenes, such as marathons, parades, intersections, etc. In total, DCFD consists of 457 video clips, which are all collected from open-source video website [Getty Images](https://www.gettyimages.com). Each video clip is cropped into MP4 format with a size of 360×480 pixels, spanning approximately 120 frames. The distribution of these video clips across dense crowd motion patterns is as follows: 135 for line, 50 for curve, 58 for circle, 118 for cross, 46 for cluster, and 50 for scatter.
 
-For access to DCFD or more information on data labeling and processing, please visit our  [Google Drive](https://drive.google.com/drive/folders/1q45sp7NWvOqLmyKFxNVZqLN5FT7YG7wo?usp=drive_link).
+For access to DCFD or more information on data labeling and processing, please visit our [Google Drive](https://drive.google.com/drive/folders/1q45sp7NWvOqLmyKFxNVZqLN5FT7YG7wo?usp=drive_link).
 
 ### Dataset Used in This Reaserch
 For the ablation studies and comparative experiments, the training set and the test set are split from DCFD at a ratio of seven to three. In total, 79 video clips are used for training and 47 video clips are allocated for testing. These 126 video clips are available in `data` and can be splited into the training and test sets using our random state in `source/train.py`.
@@ -24,7 +24,7 @@ During the evaluation phase, the prediction sets are evaluated by objective metr
 
 ## Code
 ### Requirements
-Python ![version](https://img.shields.io/badge/version-3.7.16-blue) | Pytorch ![version](https://img.shields.io/badge/version-1.13.1-blue) | Numpy ![version](https://img.shields.io/badge/version-1.21.5-blue) | OpenCV ![version](https://img.shields.io/badge/version-4.8.1-blue) | Matplotlib ![version](https://img.shields.io/badge/version-3.5.3-blue) | Scikit-learn ![version](https://img.shields.io/badge/version-1.0.2-blue)
+- Python: ![version](https://img.shields.io/badge/version-3.7.16-blue)  |  Pytorch: ![version](https://img.shields.io/badge/version-1.13.1-blue)  |  Numpy: ![version](https://img.shields.io/badge/version-1.21.5-blue)  |  OpenCV: ![version](https://img.shields.io/badge/version-4.8.1-blue)  |  Matplotlib: ![version](https://img.shields.io/badge/version-3.5.3-blue)  |  Scikit-learn: ![version](https://img.shields.io/badge/version-1.0.2-blue)
 
 ### Data Generation
 
