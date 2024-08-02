@@ -24,14 +24,12 @@ During the evaluation phase, the prediction sets are evaluated by objective metr
 
 ## Code
 ### Requirements
-```bash
-Python ![version](https://img.shields.io/badge/version-3.7.16-blue)
-Pytorch ![version](https://img.shields.io/badge/version-1.13.1-blue)
-Numpy ![version](https://img.shields.io/badge/version-1.21.5-blue)
-OpenCV ![version](https://img.shields.io/badge/version-4.8.1-blue)
-Matplotlib ![version](https://img.shields.io/badge/version-3.5.3-blue)
-Scikit-learn ![version](https://img.shields.io/badge/version-1.0.2-blue)
-```
+- Python ![version](https://img.shields.io/badge/version-3.7.16-blue)
+- Pytorch ![version](https://img.shields.io/badge/version-1.13.1-blue)
+- Numpy ![version](https://img.shields.io/badge/version-1.21.5-blue)
+- OpenCV ![version](https://img.shields.io/badge/version-4.8.1-blue)
+- Matplotlib ![version](https://img.shields.io/badge/version-3.5.3-blue)
+- Scikit-learn ![version](https://img.shields.io/badge/version-1.0.2-blue)
 
 ### Data Generation
 
