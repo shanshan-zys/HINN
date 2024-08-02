@@ -27,11 +27,17 @@ During the evaluation phase, the prediction sets are evaluated by objective metr
 Python ![version](https://img.shields.io/badge/version-3.7.16-blue) | Pytorch ![version](https://img.shields.io/badge/version-1.13.1-blue) | Numpy ![version](https://img.shields.io/badge/version-1.21.5-blue) | OpenCV ![version](https://img.shields.io/badge/version-4.8.1-blue) | Matplotlib ![version](https://img.shields.io/badge/version-3.5.3-blue) | Scikit-learn ![version](https://img.shields.io/badge/version-1.0.2-blue)
 
 ### Data Generation
-- python source/video2velocity.py
+```bash
+python source/video2velocity.py
+```
 
 ### Training
-- python source/train.py
+```bash
+python source/train.py
+```
 
 ## Citation
 ### ACM Reference Format
-- Yanshan Zhou, Pingrui Lai, Jiaqi Yu, Yingjie Xiong, and Hua Yang. 2024. Hydrodynamics-Informed Neural Network for Simulating Dense Crowd Motion Patterns. In Proceedings of the 32nd ACM International Conference on Multimedia (MM ’24), October 28-November 1, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3664647.3681277
+```bash
+Yanshan Zhou, Pingrui Lai, Jiaqi Yu, Yingjie Xiong, and Hua Yang. 2024. Hydrodynamics-Informed Neural Network for Simulating Dense Crowd Motion Patterns. In Proceedings of the 32nd ACM International Conference on Multimedia (MM ’24), October 28-November 1, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3664647.3681277
+```
