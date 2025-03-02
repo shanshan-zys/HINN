@@ -36,6 +36,15 @@ python source/video2velocity.py
 python source/train.py
 ```
 
+### Evaluation
+```bash
+python evaluation/data_transform.py
+python evaluation/heatmap_generator.py
+python evaluation/inception_score.py
+python evaluation/frechet_inception_distance.py
+python evaluation/structural_similarity.py
+```
+
 ## Citation
 ### ACM Reference Format
 Yanshan Zhou, Pingrui Lai, Jiaqi Yu, Yingjie Xiong, and Hua Yang. 2024. Hydrodynamics-Informed Neural Network for Simulating Dense Crowd Motion Patterns. In Proceedings of the 32nd ACM International Conference on Multimedia (MM ’24), October 28-November 1, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3664647.3681277
